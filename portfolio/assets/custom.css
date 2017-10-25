@@ -1,3 +1,10 @@
 .fa-home:before {
-    background-image: url('../~tfouda/portfolio/assets/home.png') !important;
+    background-image: url('../assets/home.png') !important;
 }
+
+#slide-6 {
+    background-color: #2f2f2f;
+    color: #e4e6e5;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+    }
